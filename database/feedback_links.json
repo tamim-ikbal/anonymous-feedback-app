@@ -1,0 +1,40 @@
+{
+    "last_insert": 7,
+    "entries": [
+        {
+            "user_id": 4,
+            "uuid": "66aaa3f5b1d25",
+            "id": 1
+        },
+        {
+            "user_id": 1,
+            "uuid": "66ab08e6be85c",
+            "id": 2
+        },
+        {
+            "user_id": 1,
+            "uuid": "66ab0aad83c10",
+            "id": 3
+        },
+        {
+            "user_id": 5,
+            "uuid": "66ab0cc248610",
+            "id": 4
+        },
+        {
+            "user_id": 6,
+            "uuid": "66ab1aa999e5e",
+            "id": 5
+        },
+        {
+            "user_id": 2,
+            "uuid": "66ab7a8029d0b",
+            "id": 6
+        },
+        {
+            "user_id": 7,
+            "uuid": "66adc2ce703da",
+            "id": 7
+        }
+    ]
+}

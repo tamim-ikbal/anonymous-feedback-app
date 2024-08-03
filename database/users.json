@@ -1,0 +1,41 @@
+{
+    "last_insert": 7,
+    "entries": [
+        {
+            "name": "Nolan Walls",
+            "email": "sejiloruk@mailinator.com",
+            "password": "$2y$10$IX4cjHUZYQJtmm2IIf80tOr65XDnHmBSyYaqSVYEBnOc8JGd7av56",
+            "id": 2
+        },
+        {
+            "name": "Kylie Butler",
+            "email": "kiqykoxyqu@mailinator.com",
+            "password": "$2y$10$RmwGDcRp9D85MPfSj5zQ5usI0XTdynFNkOtni96vFXMf9RdNvzxaC",
+            "id": 3
+        },
+        {
+            "name": "Kelly Harper",
+            "email": "gekuky@mailinator.com",
+            "password": "$2y$10$vvjkxM3U9JFKnY2wZx6d7eG9KbC4gG2Zp8S9huz9vAjnyjp4pe\/DO",
+            "id": 4
+        },
+        {
+            "name": "Reuben Garza",
+            "email": "cisu@mailinator.com",
+            "password": "$2y$10$gOiIrLQ3\/MJt5uI5F7mNPuzzAF0LQcle91wNg\/m8y2d27cwPRohna",
+            "id": 5
+        },
+        {
+            "name": "Adara Craft",
+            "email": "gexefiqan@mailinator.com",
+            "password": "$2y$10$X6Uo9AWqSptKO\/gn66NOauPUypS0oUzgE7js\/YFy1MN1UxcGlgaFW",
+            "id": 6
+        },
+        {
+            "name": "Ray Meyer",
+            "email": "hozemogyze@mailinator.com",
+            "password": "$2y$10$.2.pNCqzfAIxoKuGVtMRDOB2vws\/Ukp0u38kMiihG2ttCt7PcXqu6",
+            "id": 7
+        }
+    ]
+}
