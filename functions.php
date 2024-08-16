@@ -3,7 +3,7 @@
 use Core\Auth;
 use Core\Router;
 use Core\Session;
-use Core\Template;
+use Core\Template\Template;
 
 defined('ABSPATH') || die('You are not allowed');
 

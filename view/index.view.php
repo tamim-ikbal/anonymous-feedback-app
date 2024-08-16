@@ -29,3 +29,13 @@
     </div>
 </main>
 @endsection
+
+
+
+@push('js') 
+
+<script>
+    console.log('Test');
+</script>
+
+@endpush

@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="<?php echo asset('assets/css/style.css'); ?>">
 </head>
 <body class="bg-gray-100">
+
     <header class="bg-white">
     <nav class="flex items-center justify-between p-6 lg:px-8" aria-label="Global">
         <div class="flex lg:flex-1">
@@ -88,11 +89,19 @@
     </div>
 </main>
 
+    
 
     <footer class="bg-white">
     <div class="mx-auto max-w-7xl px-6 py-12 md:flex md:items-center justify-center lg:px-8">
         <p class="text-center text-xs leading-5 text-gray-500">&copy; 2024 TruthWhisper, Inc. All rights reserved.</p>
     </div>
 </footer>
+     
+
+<script>
+    console.log('Test');
+</script>
+
+
 </body>
 </html>

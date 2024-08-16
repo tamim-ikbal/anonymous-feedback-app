@@ -8,11 +8,9 @@
     <link rel="stylesheet" href="<?php echo asset('assets/css/style.css'); ?>">
 </head>
 <body class="bg-gray-100">
-
     @include('layouts/partials/header')
 
     @show('content')
-    @show('hi')
 
     @include('layouts/partials/footer')
     @show('js')@endshow
